@@ -1,0 +1,6 @@
+Package: cpd-linux-x64
+Version: 1.0.0
+Section: utils
+Architecture: amd64
+Maintainer: BonitoCat
+Description: A tray app to detect captive portals and immediatelly redirect to its browser page

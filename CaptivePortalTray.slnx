@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Dependencies/">
+    <Project Path="../NotifyLib/NotifyLib.Avalonia/NotifyLib.Avalonia.csproj" />
+    <Project Path="../NotifyLib/NotifyLib/NotifyLib.csproj" />
+  </Folder>
+  <Project Path="CaptivePortalTray/CaptivePortalTray.csproj" />
+</Solution>

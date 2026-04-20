@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Captive Portal Detector
+Comment=Detect captive portals and automatically open its browser page
+Exec=/opt/Captive-Portal-Detector/CaptivePortalTray
+Icon=/opt/Captive-Portal-Detector/Assets/CaptivePortal.ico
+Type=Application
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=3
